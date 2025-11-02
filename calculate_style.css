@@ -21,7 +21,9 @@ body{
   border-radius: 10px;
   box-shadow: 0 0 15px #000;
 }
-
+.heading {
+  text-align: center;
+}
 #screen{
     width: 100%;
   height: 60px;
